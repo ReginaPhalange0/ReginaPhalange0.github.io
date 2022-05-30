@@ -1,0 +1,58 @@
+html, body{
+  color: #222
+}
+
+.pic{
+  width:100%;
+}
+
+.copyright{
+  background-color: #F5F5F5;
+  color: #FFFFFF;
+  padding-top: 2rem;
+}
+
+.card{
+  width: 100%;
+  margin: auto;
+}
+
+.topcardtxt{
+  color: #FFFFFF;
+}
+
+.card-text{
+  margin-top: 1rem;
+  text-align:center;
+}
+
+.card-title{
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  text-align:center;
+}
+
+.Hugsy{
+  margin-top: 3rem;
+}
+
+.backbtn{
+  margin-top: 3rem;
+}
+
+.bioPic{
+  width:40%;
+  margin-top: 15rem;
+}
+
+.email{
+  margin-top: 5rem;
+}
+
+.h5{
+  margin-top: 10rem;
+}
+
+.contact{
+  margin: 20rem;
+}
