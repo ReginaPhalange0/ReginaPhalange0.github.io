@@ -54,5 +54,10 @@ html, body{
 }
 
 .contact{
-  margin: 20rem;
+  margin-top: 10rem;
+  width: 50%;
+}
+
+.send-center{
+  margin-bottom: 20rem;
 }
